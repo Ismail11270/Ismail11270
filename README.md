@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ismail/Ismoil and I'm a software engineer (they say)
+- 👀 I’m interested in literally everything 
+- 🌱 I’m currently learning GitLab CI/CD and Spring boot
+- 💞️ I’m looking to collaborate on any fun project/challenge.
+- 📫 How to reach me ismail11270@gmail.com
